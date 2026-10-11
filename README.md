@@ -112,14 +112,7 @@ Throughout my career, I have operated as the lead architect and primary develope
   </tr>
 </table>
 
----
 
-### 📊 GitHub Activity & Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmjadMesmar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadMesmar&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-</div>
 
 ---
 
